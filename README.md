@@ -7,6 +7,7 @@
 - The React contains the Front-end API connnection end-points for the back-end. 
 - There is no Redux or statement management used in React. 
 - You can further modify to add redux to the project. 
+- You can also further modify the Java (Spring Boot) to add Spring Security Plugin for token authorization (Enhanced Security) between Front-End and Back-End.
 
 ## Vulnerabilities
 - If you find any vulnerabilities, feel free to contact me at karimbaidar@yahoo.com
