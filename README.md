@@ -7,4 +7,9 @@
 - The React contains the Front-end API connnection end-points for the back-end. 
 - There is no Redux or statement management used in React. 
 - You can further modify to add redux to the project. 
-- 
+
+## Vulnerabilities
+- If you find any vulnerabilities, feel free to contact me at karimbaidar@yahoo.com
+
+## License
+- MIT
